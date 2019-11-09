@@ -1,5 +1,3 @@
-    //Student Name: Thomas Wright
-    //Student Number: 260769898
 import java.util.NoSuchElementException; //importing an exception we may encounter to properly catch it later on
 public class Hotel {  //our Hotel class
   private String name; //declaring a String attribute to represent the hotel name
