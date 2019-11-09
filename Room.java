@@ -1,5 +1,3 @@
-    //Student Name: Thomas Wright
-    //Student Number: 260769898
 public class Room { //our Room class
   private String type; //declaring a String attribute to represent a room type
   private double price; //declaring a double attribute to represent a room price
