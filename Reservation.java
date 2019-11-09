@@ -1,5 +1,3 @@
-    //Student Name: Thomas Wright
-    //Student Number: 260769898
 public class Reservation { //our Reservation class
   private String name; // declaring a String attribute to represent a name
   private Room roomReserved; // declaring a Room attribute to represent a room
